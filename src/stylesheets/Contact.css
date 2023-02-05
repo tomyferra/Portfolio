@@ -1,0 +1,26 @@
+.contact-container{
+  background-color: #022a5a;
+  color: white;
+}
+.contact-form{
+  border: 2px solid white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.social-media{
+  border: 2px solid white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.social-media-links{
+  text-decoration: none;
+  color: white;
+  
+}
+
+.social-media-links:hover{
+text-decoration: underline;
+}

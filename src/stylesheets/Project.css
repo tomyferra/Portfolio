@@ -1,0 +1,21 @@
+
+.project-name{
+  margin: 50px;
+  font-weight: bold;
+  font-size: 30px;
+} 
+.project-summary{
+  margin: 50px;
+}
+
+.project-style{
+  color: white;
+}
+.card-body{
+  padding: 10px 10px 10px 10px !important;
+  background-color: #154c79 !important;
+}
+.card-project:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
