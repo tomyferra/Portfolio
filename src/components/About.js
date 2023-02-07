@@ -8,10 +8,12 @@ function About () {
       <div className="container col col-md-7 about-introduction align-items-center justify-content-center">
         <div className="row">
           <h1 className="text-center" >Hi, I'm Tomas Ferrari.</h1>
-          <h2 className="text-center">I love to build amazing websites.</h2>
+          <h2 className="text-center">Software Developer</h2>
         </div>
         <div className="row">
-          <h4 className="text-secondary text-center">Electronic Engineer. Python backend developer. Data Science. I easily adapt to changes and seek for challenges constantly. Fluent English and great passion for informatics.</h4>  
+          <h4 className="text-secondary text-center">Hi, I'm Tomas Ferrari. I'm a Software Developer having specialization in back end and looking forward to become a Full Stack developer. I have 4 years of experience as a Backend Developer and 2 years as a Front Developer. My backend skills include Python and SQL. In Front end i have skills in React, Bootstrap and Javascript. </h4>
+          <h4 className="text-secondary text-center">I'm located in Buenos Aires, Argentina. </h4>  
+          
         </div>      
       </div>
       <div className="container col-sm-5 align-items-center d-flex img-rounded">
@@ -20,11 +22,6 @@ function About () {
           src={ProfilePicture}
           alt='Tomas Ferrari'
         />
-        {/* <div className='mask container' style={{ backgroundColor: 'rgba(0, 0, 0, 0.6)' }}>
-          <div className='d-flex container-fluid justify-content-center h-100'>
-            <p className='text-white mb-0'>Can you see me?</p>
-          </div>
-        </div> */}
       </div>
     </div>
   );

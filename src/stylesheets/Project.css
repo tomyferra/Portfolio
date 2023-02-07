@@ -10,12 +10,23 @@
 
 .project-style{
   color: white;
+
+}
+.card-title{
+  font-weight: bold;
 }
 .card-body{
   padding: 10px 10px 10px 10px !important;
   background-color: #154c79 !important;
 }
-.card-project:hover{
-  opacity: 0.8;
-  cursor: pointer;
+.card-link{
+  text-decoration: none;
+  color: white;
+}
+.card-link:hover{
+  text-decoration: underline;
+  color: white;
+}
+.btn-primary{
+  margin: 10px;
 }

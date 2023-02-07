@@ -1,8 +1,12 @@
 .App{
-  background-color: #022a5a;
+  background-color: #15202b !important;
+  color: white; /* All Text is white */
+  height: 100vh;
 }
 
-html, body { overflow-x: hidden; }
+html, body { 
+  overflow-x: hidden; 
+}
 
 .no-margin-container{
   padding:0 !important;

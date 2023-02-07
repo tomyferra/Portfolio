@@ -1,13 +1,9 @@
-.contact-container{
-  background-color: #022a5a;
-  color: white;
-}
-.contact-form{
-  border: 2px solid white;
-  border-radius: 5px;
-  margin: 10px;
+.links-container{
   padding: 10px;
+  background-color: #15202b;
+
 }
+
 .social-media{
   border: 2px solid white;
   border-radius: 5px;
@@ -23,4 +19,8 @@
 
 .social-media-links:hover{
 text-decoration: underline;
+}
+
+.link{
+  margin: 10px 0 10px 0;
 }

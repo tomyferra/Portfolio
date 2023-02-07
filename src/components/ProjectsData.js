@@ -9,10 +9,10 @@ export const ProjectsData = [
   id: uuidv4()
 },
 {
-  name: 'Project 2',
-  summary: 'Project 2 Summarasdjad a sd asd a dgrgwekd asd asdadas dad asd  af dg sds ds da da sadamsda asd asd asd ad ad asd ad  asda da dsy',
-  url: 'https:google.com.ar',
-  urlgithub: 'https://tomyferra.github.io/stickyNotesApp/',
+  name: 'Crypto Converter',
+  summary: 'This is a project where you input an amount of BTC and ig tives you the equivalence in other coins as well as the total price',
+  url: 'https://tomyferra.github.io/cryptoconverter/',
+  urlgithub: 'https://github.com/tomyferra/cryptoconverter',
   id: uuidv4()
 }
 ];

@@ -2,11 +2,11 @@ import { v4 as uuidv4 } from 'uuid';
 
 export const SkillsData = [
   {
-    name: 'Python',
+    name: 'React',
     id: uuidv4()
   },
   {
-    name: 'React',
+    name: 'git',
     id: uuidv4()
   },
   {
@@ -14,11 +14,15 @@ export const SkillsData = [
     id: uuidv4()
   },
   {
+    name: 'Bootstrap',
+    id: uuidv4()
+  },
+  {
     name: 'HTML, CSS',
     id: uuidv4()
   },
   {
-    name: 'Bootstrap',
+    name: 'Python',
     id: uuidv4()
   },
   {
@@ -33,8 +37,5 @@ export const SkillsData = [
     name: 'SQL',
     id: uuidv4()
   },
-  {
-    name: 'Git',
-    id: uuidv4()
-  }
+
   ];
