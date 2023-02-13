@@ -6,7 +6,7 @@ export const SkillsData = [
     id: uuidv4()
   },
   {
-    name: 'git',
+    name: 'Git',
     id: uuidv4()
   },
   {

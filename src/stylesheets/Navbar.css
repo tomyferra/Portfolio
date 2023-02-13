@@ -9,6 +9,9 @@
 .navbar-item{
   color: white !important;
 }
+.navbar-brand{
+  max-height: 5vh;
+}
 
 .navbar-collapse{
   align-items: center;
