@@ -25,8 +25,8 @@ export const ProjectsData = [
 {
   name: '[Site in construction] Wine App',
   summary: `I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score.`,
-  url: 'https://tomyferra.github.io/wine/',
-  urlgithub: 'https://github.com/tomyferra/wine',
+  url: 'https://tomyferra.github.io/wineapp/',
+  urlgithub: 'https://github.com/tomyferra/wineapp',
   id: uuidv4()
 }
 ];
