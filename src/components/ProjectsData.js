@@ -16,14 +16,14 @@ export const ProjectsData = [
   id: uuidv4()
 },
 {
-  name: 'Estudio Vivanco',
-  summary: 'This is a consulting company that asked for a website',
+  name: '[Site in construction] Estudio Vivanco',
+  summary: 'This is a consulting company specialized in ships that asked for a website',
   url: 'https://github.com/tomyferra/estudiovivanco',
   urlgithub: 'https://github.com/tomyferra/estudiovivanco',
   id: uuidv4()
 },
 {
-  name: 'Wine App',
+  name: '[Site in construction] Wine App',
   summary: `I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score.`,
   url: 'https://tomyferra.github.io/wine/',
   urlgithub: 'https://github.com/tomyferra/wine',
