@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.471c34d7.css",
-    "main.js": "/Portfolio/static/js/main.edbd0b82.js",
+    "main.js": "/Portfolio/static/js/main.25d509e0.js",
     "static/media/TomasFerrari.gif": "/Portfolio/static/media/TomasFerrari.8bb26cf5cea33529c3f8.gif",
     "static/media/profilepicture.jpg": "/Portfolio/static/media/profilepicture.ac297d309f80a22a73f6.jpg",
     "index.html": "/Portfolio/index.html",
     "main.471c34d7.css.map": "/Portfolio/static/css/main.471c34d7.css.map",
-    "main.edbd0b82.js.map": "/Portfolio/static/js/main.edbd0b82.js.map"
+    "main.25d509e0.js.map": "/Portfolio/static/js/main.25d509e0.js.map"
   },
   "entrypoints": [
     "static/css/main.471c34d7.css",
-    "static/js/main.edbd0b82.js"
+    "static/js/main.25d509e0.js"
   ]
 }
