@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7b665c60.css",
-    "main.js": "/Portfolio/static/js/main.870f20f6.js",
+    "main.js": "/Portfolio/static/js/main.c4cd9dbd.js",
     "static/media/TomasFerrari.gif": "/Portfolio/static/media/TomasFerrari.8bb26cf5cea33529c3f8.gif",
-    "static/media/HTMLLogo.png": "/Portfolio/static/media/HTMLLogo.f0a8be4f6dc7467a2ee8.png",
-    "static/media/CSSLogo.png": "/Portfolio/static/media/CSSLogo.8f2a966b5550bceedacf.png",
-    "static/media/react.png": "/Portfolio/static/media/react.f16a4da438c312ed3612.png",
-    "static/media/bootstrapLogo.png": "/Portfolio/static/media/bootstrapLogo.780330a8953bc71a762f.png",
-    "static/media/javascriptLogo.png": "/Portfolio/static/media/javascriptLogo.5fcf1e19a712cf252ea9.png",
+    "static/media/HTMLLogo.webp": "/Portfolio/static/media/HTMLLogo.1172451f6e8524aecd55.webp",
     "static/media/pythonLogo.png": "/Portfolio/static/media/pythonLogo.298154dd4a36f5b0eed9.png",
-    "static/media/profilepicture.jpg": "/Portfolio/static/media/profilepicture.ac297d309f80a22a73f6.jpg",
+    "static/media/CSSLogo.webp": "/Portfolio/static/media/CSSLogo.e4c8d403b05dc004a417.webp",
+    "static/media/react.webp": "/Portfolio/static/media/react.e5dd2d8c1c070089e1b7.webp",
+    "static/media/javascriptLogo.webp": "/Portfolio/static/media/javascriptLogo.c2d753492a9d76d23d5b.webp",
     "static/media/tableauLogo.png": "/Portfolio/static/media/tableauLogo.d3b945bb6eba10ef1202.png",
+    "static/media/bootstrapLogo.webp": "/Portfolio/static/media/bootstrapLogo.a7538f097715d47f8d07.webp",
+    "static/media/profilepicture.webp": "/Portfolio/static/media/profilepicture.8844c74d1860343d37ab.webp",
+    "static/media/powerBiLogo.webp": "/Portfolio/static/media/powerBiLogo.faa8ea269f08d41757db.webp",
     "index.html": "/Portfolio/index.html",
     "main.7b665c60.css.map": "/Portfolio/static/css/main.7b665c60.css.map",
-    "main.870f20f6.js.map": "/Portfolio/static/js/main.870f20f6.js.map"
+    "main.c4cd9dbd.js.map": "/Portfolio/static/js/main.c4cd9dbd.js.map"
   },
   "entrypoints": [
     "static/css/main.7b665c60.css",
-    "static/js/main.870f20f6.js"
+    "static/js/main.c4cd9dbd.js"
   ]
 }
