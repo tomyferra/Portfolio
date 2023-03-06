@@ -8,6 +8,10 @@
 }
 .navbar-item{
   color: white !important;
+  
+}
+.nav-item{
+  padding: 0 10px 0 10px;
 }
 .navbar-brand{
   max-height: 5vh;
@@ -31,6 +35,24 @@
 
 .nav-link{
   color: white !important;
+  display: inline-block;
+  position: relative;
+}
+.nav-link:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+.nav-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 .custom-toggler.navbar-toggler{
