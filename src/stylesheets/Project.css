@@ -30,3 +30,6 @@
 .btn-primary{
   margin: 10px;
 }
+.projects-container{
+  justify-content: center;
+}

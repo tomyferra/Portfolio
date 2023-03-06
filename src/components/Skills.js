@@ -1,7 +1,14 @@
 import React from "react";
-import Skill from './Skill';
 import '../stylesheets/Skills.css';
-import { SkillsData } from "./SkillsData";
+import reactLogo from '../images/react.png'
+import gitLogo from '../images/gitLogo.png'
+import javascriptLogo from '../images/javascriptLogo.png'
+import bootstrapLogo from '../images/bootstrapLogo.png'
+import HTMLLogo from '../images/HTMLLogo.png'
+import CSSLogo from '../images/CSSLogo.png'
+import pythonLogo from '../images/pythonLogo.png'
+import tableauLogo from '../images/tableauLogo.png'
+import powerBiLogo from '../images/powerBiLogo.png'
 
 function Skills () {
   return(
@@ -17,11 +24,15 @@ function Skills () {
     </div>
     <div className="container">
       <div className="row skill-container">
-        {SkillsData.map( (skill) => (
-            <div className="col col-md-4 skill-style">
-              <Skill name={skill.name} identifier={skill.id} />
-            </div>
-          ))}
+        <img className='imgLogo' src={reactLogo} alt="Logo for " />
+        <img className='imgLogo' src={gitLogo} alt="Logo for " />
+        <img className='imgLogo' src={javascriptLogo} alt="Logo for " />
+        <img className='imgLogo' src={bootstrapLogo} alt="Logo for " />
+        <img className='imgLogo' src={HTMLLogo} alt="Logo for " />
+        <img className='imgLogo' src={CSSLogo} alt="Logo for " />
+        <img className='imgLogo' src={pythonLogo} alt="Logo for " />
+        <img className='imgLogo' src={tableauLogo} alt="Logo for " />
+        <img className='imgLogo' src={powerBiLogo} alt="Logo for " />
       </div>
     </div>
   </div>

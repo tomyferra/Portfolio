@@ -4,8 +4,21 @@
   padding: 40px;
 
 }
-
+.skill-container{
+  padding: 30px;
+}
 .skill-style{
   margin: 10px 0 10px 0 !important;
 }
 
+.imgLogo{
+  padding: 15px 40px 15px 40px;
+  max-height: 150px;
+  width: auto !important;
+}
+.imgLogo:hover{
+  scale: 1.2;
+}
+.skill-container{
+  justify-content: center;
+}
