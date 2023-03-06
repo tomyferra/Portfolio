@@ -10,7 +10,7 @@ export const ProjectsData = [
 },
 {
   name: '[Site in construction] Estudio Vivanco',
-  summary: 'This is a consulting company specialized in ships that asked for a website',
+  summary: 'This is a consulting company specialized in ship damage control. With customers in Argentina and Europe.',
   url: 'https://tomyferra.github.io/estudiovivanco/',
   urlgithub: 'https://github.com/tomyferra/estudiovivanco',
   id: uuidv4()

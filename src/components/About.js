@@ -11,7 +11,7 @@ function About () {
           <h2 className="text-center">Software Developer</h2>
         </div>
         <div className="row">
-          <h4 className="text-secondary text-center">Hi, I'm Tomas Ferrari. I'm a Software Developer having specialization in back end and looking forward to become a Full Stack developer. I have 4 years of experience as a Backend Developer and 2 years as a Front Developer. My backend skills include Python and SQL. In Front end i have skills in React, Bootstrap and Javascript. </h4>
+          <h4 className="text-secondary text-center">Hi, I'm Tomas Ferrari. I'm a Software Developer specialized in back end and looking forward to become a Full Stack developer. I have 4 years of experience as a Backend Developer and 2 years as a Front Developer. My backend skills include Python and SQL. In Front end I have skills in React, Bootstrap and Javascript. </h4>
           <h4 className="text-secondary text-center">I'm located in Buenos Aires, Argentina. </h4>  
           
         </div>      
