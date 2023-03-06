@@ -1,6 +1,6 @@
 import React from "react";
 import '../stylesheets/About.css';
-import ProfilePicture from '../images/profilepicture.jpg';
+import ProfilePicture from '../images/profilepicture.webp';
 
 function About () {
   return (

@@ -1,14 +1,14 @@
 import React from "react";
 import '../stylesheets/Skills.css';
-import reactLogo from '../images/react.png'
+import reactLogo from '../images/react.webp'
 import gitLogo from '../images/gitLogo.png'
-import javascriptLogo from '../images/javascriptLogo.png'
-import bootstrapLogo from '../images/bootstrapLogo.png'
-import HTMLLogo from '../images/HTMLLogo.png'
-import CSSLogo from '../images/CSSLogo.png'
+import javascriptLogo from '../images/javascriptLogo.webp'
+import bootstrapLogo from '../images/bootstrapLogo.webp'
+import HTMLLogo from '../images/HTMLLogo.webp'
+import CSSLogo from '../images/CSSLogo.webp'
 import pythonLogo from '../images/pythonLogo.png'
 import tableauLogo from '../images/tableauLogo.png'
-import powerBiLogo from '../images/powerBiLogo.png'
+import powerBiLogo from '../images/powerBiLogo.webp'
 
 function Skills () {
   return(
