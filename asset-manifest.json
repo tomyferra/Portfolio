@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.52a8f337.css",
-    "main.js": "/Portfolio/static/js/main.1e4b7d6d.js",
+    "main.css": "/Portfolio/static/css/main.7b665c60.css",
+    "main.js": "/Portfolio/static/js/main.870f20f6.js",
     "static/media/TomasFerrari.gif": "/Portfolio/static/media/TomasFerrari.8bb26cf5cea33529c3f8.gif",
+    "static/media/HTMLLogo.png": "/Portfolio/static/media/HTMLLogo.f0a8be4f6dc7467a2ee8.png",
+    "static/media/CSSLogo.png": "/Portfolio/static/media/CSSLogo.8f2a966b5550bceedacf.png",
+    "static/media/react.png": "/Portfolio/static/media/react.f16a4da438c312ed3612.png",
+    "static/media/bootstrapLogo.png": "/Portfolio/static/media/bootstrapLogo.780330a8953bc71a762f.png",
+    "static/media/javascriptLogo.png": "/Portfolio/static/media/javascriptLogo.5fcf1e19a712cf252ea9.png",
+    "static/media/pythonLogo.png": "/Portfolio/static/media/pythonLogo.298154dd4a36f5b0eed9.png",
     "static/media/profilepicture.jpg": "/Portfolio/static/media/profilepicture.ac297d309f80a22a73f6.jpg",
+    "static/media/tableauLogo.png": "/Portfolio/static/media/tableauLogo.d3b945bb6eba10ef1202.png",
     "index.html": "/Portfolio/index.html",
-    "main.52a8f337.css.map": "/Portfolio/static/css/main.52a8f337.css.map",
-    "main.1e4b7d6d.js.map": "/Portfolio/static/js/main.1e4b7d6d.js.map"
+    "main.7b665c60.css.map": "/Portfolio/static/css/main.7b665c60.css.map",
+    "main.870f20f6.js.map": "/Portfolio/static/js/main.870f20f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.52a8f337.css",
-    "static/js/main.1e4b7d6d.js"
+    "static/css/main.7b665c60.css",
+    "static/js/main.870f20f6.js"
   ]
 }
