@@ -2,10 +2,12 @@ import NavigationBar from './components/Navbar';
 import About from './components/About';
 import PastWork from './components/PastWork';
 import Skills from './components/Skills';
-import WorkExperience from './components/WorkExperience';
+// import WorkExperience from './components/WorkExperience';
 import Links from './components/Links';
 
+
 import './App.css';
+import ExperienceTimeline from './components/ExperienceTimeline';
 
 function App() {
   return (
@@ -13,7 +15,8 @@ function App() {
       <div className="row">
         <NavigationBar />
         <About />
-        <WorkExperience />
+        <ExperienceTimeline />
+        {/* <WorkExperience /> */}
         <PastWork />
         <Skills />
         <Links/>
