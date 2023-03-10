@@ -9,6 +9,7 @@ import CSSLogo from '../images/CSSLogo.webp'
 import pythonLogo from '../images/pythonLogo.png'
 import tableauLogo from '../images/tableauLogo.png'
 import powerBiLogo from '../images/powerBiLogo.webp'
+import TailwindLogo from '../images/TailwindLogo.webp'
 
 function Skills () {
   return(
@@ -24,15 +25,16 @@ function Skills () {
     </div>
     <div className="container">
       <div className="row skill-container">
-        <img className='imgLogo' src={reactLogo} alt="Logo for " />
-        <img className='imgLogo' src={gitLogo} alt="Logo for " />
-        <img className='imgLogo' src={javascriptLogo} alt="Logo for " />
-        <img className='imgLogo' src={bootstrapLogo} alt="Logo for " />
-        <img className='imgLogo' src={HTMLLogo} alt="Logo for " />
-        <img className='imgLogo' src={CSSLogo} alt="Logo for " />
-        <img className='imgLogo' src={pythonLogo} alt="Logo for " />
-        <img className='imgLogo' src={tableauLogo} alt="Logo for " />
-        <img className='imgLogo' src={powerBiLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={reactLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={gitLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={javascriptLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={bootstrapLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={HTMLLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={CSSLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={pythonLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={tableauLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={powerBiLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={TailwindLogo} alt="Logo for " />
       </div>
     </div>
   </div>

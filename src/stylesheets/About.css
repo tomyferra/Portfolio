@@ -1,7 +1,6 @@
 .about-container {
   margin: 0px !important;
-  background-color: #15202b !important;
-  padding: 40px;
+  padding: 80px;
 }
 
 
@@ -14,7 +13,7 @@
 .about-introduction{
   color: white;
   margin: 20px;
-  padding: 20px;
+  padding: 30px;
   display: flex;
   flex-direction: column;
   align-items: left;

@@ -33,3 +33,19 @@
 .projects-container{
   justify-content: center;
 }
+.projectImage{
+  width: 200%;
+}
+
+.card-container{
+  margin: 20px;
+  border: none;
+  max-width: 300px;
+}
+
+.my-card{
+  padding: 20px;
+}
+.projects-text-container{
+  padding: 30px 0 30px 0;
+}

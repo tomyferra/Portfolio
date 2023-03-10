@@ -1,6 +1,6 @@
 import NavigationBar from './components/Navbar';
 import About from './components/About';
-import PastWork from './components/PastWork';
+import PastWork from './components/Projects';
 import Skills from './components/Skills';
 // import WorkExperience from './components/WorkExperience';
 import Links from './components/Links';
