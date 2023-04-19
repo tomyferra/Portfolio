@@ -9,17 +9,18 @@ export const ProjectsData = [
   id: uuidv4()
 },
 {
+  name: 'WineMe',
+  summary: `This web app lets users rate wines from Argentina based on personal preferences. The wine list comes from a constantly updated MongoDB database, and the app provides wine details, such as origin and grape variety. Users can explore the list and rate wines via an easy-to-use interface.`,
+  url: 'https://tomyferra.github.io/wineapp/',
+  urlgithub: 'https://github.com/tomyferra/wineapp',
+  id: uuidv4()
+},
+{
   name: '[Site in construction] Estudio Vivanco',
   summary: 'This is a consulting company specialized in ship damage control. With customers in Argentina and Europe.',
   url: 'https://tomyferra.github.io/estudiovivanco/',
   urlgithub: 'https://github.com/tomyferra/estudiovivanco',
   id: uuidv4()
 },
-{
-  name: '[Site in construction] Wine App',
-  summary: `I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score.`,
-  url: 'https://tomyferra.github.io/wineapp/',
-  urlgithub: 'https://github.com/tomyferra/wineapp',
-  id: uuidv4()
-}
+
 ];

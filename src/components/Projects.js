@@ -5,8 +5,6 @@ import WineApp from "../images/WineMe.webp";
 import EstudioVivanco from "../images/EstudioVivanco.webp";
 import '../stylesheets/Project.css'
 import Project from "./Project";
-import { ProjectsData } from "./ProjectsData";
-//import project from '../images/CryptoApp.webp';
 
 function PastWork () {
 
@@ -22,10 +20,9 @@ function PastWork () {
       </div>
       <div className="container">
       <div className="row">
-        <Project name='Crypto Converter' sitepicture={CryptoApp} summary='This is a project where you input an amount of BTC and ig tives you the equivalence in other coins as well as the total price' url='https://tomyferra.github.io/cryptoconverter/' urlgithub='https://github.com/tomyferra/cryptoconverter'/>       
-        <Project name='Wine Me' sitepicture={WineApp} summary="I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score." url='https://wineme.onrender.com/' urlgithub='https://github.com/tomyferra/wineme' />
+        <Project name='Crypto Converter' sitepicture={CryptoApp} summary='This web application allows users to convert Bitcoin to other currencies using the latest price data from Binance. It provides a comprehensive list of commonly traded currencies and real-time exchange rates. This app is perfect for investors and traders who need quick access to accurate market data.' url='https://tomyferra.github.io/cryptoconverter/' urlgithub='https://github.com/tomyferra/cryptoconverter'/>       
+        <Project name='WineMe' sitepicture={WineApp} summary="This web app lets users rate wines from Argentina based on personal preferences. The wine list comes from a constantly updated MongoDB database, and the app provides wine details, such as origin and grape variety. Users can explore the list and rate wines via an easy-to-use interface." url='https://wineme.onrender.com/' urlgithub='https://github.com/tomyferra/wineme' />
         <Project name='[Site in construction] Estudio Vivanco' sitepicture={EstudioVivanco} summary='This is a consulting company specialized in ship damage control. With customers in Argentina and Europe.' url='https://tomyferra.github.io/estudiovivanco/' urlgithub='https://github.com/tomyferra/estudiovivanco'/>
-        
       </div>
       </div>
     </div>

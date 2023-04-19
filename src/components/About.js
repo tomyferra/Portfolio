@@ -11,8 +11,8 @@ function About () {
           <h2 className="text-center">Software Developer</h2>
         </div>
         <div className="row">
-          <h4 className="text-secondary text-center">I'm specialized in back end and looking forward to become a Full Stack developer. I have 4 years of experience as a Backend Developer and 2 years as a Front Developer. My backend skills include Python and SQL. In Front end I have skills in React, Bootstrap and Javascript. </h4>
-          <h4 className="text-secondary text-center">I'm located in Buenos Aires, Argentina. </h4>  
+          <h4 className="text-secondary text-center">I am a backend developer with 4 years of experience in Python and SQL. I also have 2 years of front-end development experience with React, Bootstrap, and JavaScript. I am eager to become a full-stack developer and expand my skill set.</h4>
+          <h4 className="text-secondary text-center">Although I'm currently based in Buenos Aires, I'm open to the possibility of relocating for the right opportunity. I'm always eager to explore new opportunities to advance my career and would be delighted to hear from you if you're interested in collaborating.</h4>
         </div>      
       </div>
       <div className="container col-sm-5 align-items-center d-flex img-rounded">
