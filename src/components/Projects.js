@@ -1,7 +1,7 @@
 import React from "react";
 import '../stylesheets/PastWork.css';
 import CryptoApp from "../images/CryptoApp.webp";
-import WineApp from "../images/WineApp.webp";
+import WineApp from "../images/WineMe.webp";
 import EstudioVivanco from "../images/EstudioVivanco.webp";
 import '../stylesheets/Project.css'
 import Project from "./Project";
@@ -23,16 +23,11 @@ function PastWork () {
       <div className="container">
       <div className="row">
         <Project name='Crypto Converter' sitepicture={CryptoApp} summary='This is a project where you input an amount of BTC and ig tives you the equivalence in other coins as well as the total price' url='https://tomyferra.github.io/cryptoconverter/' urlgithub='https://github.com/tomyferra/cryptoconverter'/>       
+        <Project name='Wine Me' sitepicture={WineApp} summary="I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score." url='https://wineme.onrender.com/' urlgithub='https://github.com/tomyferra/wineme' />
         <Project name='[Site in construction] Estudio Vivanco' sitepicture={EstudioVivanco} summary='This is a consulting company specialized in ship damage control. With customers in Argentina and Europe.' url='https://tomyferra.github.io/estudiovivanco/' urlgithub='https://github.com/tomyferra/estudiovivanco'/>
-        <Project name='[Site in construction] Wine App' sitepicture={WineApp} summary="I'm a Wine lover and in this project I wanted to keep track of the wines that I've tasted and give them certain score." url='https://tomyferra.github.io/wineapp/' urlgithub='https://github.com/tomyferra/wineapp' />
+        
       </div>
       </div>
-        {/* <div className="card-deck">
-        <Project name='Crypto Converter' sitepicture={CryptoApp} summary='This is a project where you input an amount of BTC and ig tives you the equivalence in other coins as well as the total price' url='https://tomyferra.github.io/cryptoconverter/' urlgithub='https://github.com/tomyferra/cryptoconverter'/>
-
-        <div className="TEXT">
-          LOS BORDES DE LA IMAGEN SON PUNTAS
-        </div> */}
     </div>
   );
 }

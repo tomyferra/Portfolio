@@ -10,6 +10,8 @@ import pythonLogo from '../images/pythonLogo.png'
 import tableauLogo from '../images/tableauLogo.png'
 import powerBiLogo from '../images/powerBiLogo.webp'
 import TailwindLogo from '../images/TailwindLogo.webp'
+import MongoDBLogo from '../images/MongoDb.webp'
+import PostmanLogo from '../images/PostmanLogo.webp'
 
 function Skills () {
   return(
@@ -25,16 +27,18 @@ function Skills () {
     </div>
     <div className="container">
       <div className="row skill-container">
-        <img className='imgLogo col-6' src={reactLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={gitLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={javascriptLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={bootstrapLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={HTMLLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={CSSLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={pythonLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={tableauLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={powerBiLogo} alt="Logo for " />
-        <img className='imgLogo col-6' src={TailwindLogo} alt="Logo for " />
+        <img className='imgLogo col-6' src={reactLogo} alt="Logo for React" />
+        <img className='imgLogo col-6' src={gitLogo} alt="Logo for Git" />
+        <img className='imgLogo col-6' src={javascriptLogo} alt="Logo for JS" />
+        <img className='imgLogo col-6' src={bootstrapLogo} alt="Logo for Bootstrap" />
+        <img className='imgLogo col-6' src={HTMLLogo} alt="Logo for HTML" />
+        <img className='imgLogo col-6' src={CSSLogo} alt="Logo for CSS" />
+        <img className='imgLogo col-6' src={TailwindLogo} alt="Logo for Tailwind" />
+        <img className='imgLogo col-6' src={MongoDBLogo} alt="Logo for MongoDB" />
+        <img className='imgLogo col-6' src={PostmanLogo} alt="Logo for Postman" />
+        <img className='imgLogo col-6' src={pythonLogo} alt="Logo for Python" />
+        <img className='imgLogo col-6' src={tableauLogo} alt="Logo for Tableu" />
+        <img className='imgLogo col-6' src={powerBiLogo} alt="Logo for PowerBI" />
       </div>
     </div>
   </div>

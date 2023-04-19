@@ -7,7 +7,7 @@ export const WorkExperienceData = [
     description: "Python backend Software Engineer. Scripts developer in Python for financial internal tools. Object Oriented Programming, Unit Testing, Code reviews, Agile Methodologies",
     datestarted: 'Dec 2021',
     dateended: 'Actuality',
-    technologies: 'HTML, CSS, Scrum, Agile, UnitTests, OOP, GIT, Python, SQL',
+    technologies: 'HTML, CSS, Scrum, Agile, UnitTests, OOP, GIT, Python, SQL, React',
     id: uuidv4()
   },
   {
