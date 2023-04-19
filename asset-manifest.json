@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.05f278c2.css",
-    "main.js": "/Portfolio/static/js/main.315c4f98.js",
+    "main.js": "/Portfolio/static/js/main.784f5ff7.js",
     "static/media/TomasFerrari.gif": "/Portfolio/static/media/TomasFerrari.8bb26cf5cea33529c3f8.gif",
-    "static/media/WineApp.webp": "/Portfolio/static/media/WineApp.17a72c0a046ab5043226.webp",
     "static/media/EstudioVivanco.webp": "/Portfolio/static/media/EstudioVivanco.707210c2621186d092b8.webp",
     "static/media/HTMLLogo.webp": "/Portfolio/static/media/HTMLLogo.1172451f6e8524aecd55.webp",
     "static/media/pythonLogo.png": "/Portfolio/static/media/pythonLogo.298154dd4a36f5b0eed9.png",
     "static/media/CSSLogo.webp": "/Portfolio/static/media/CSSLogo.e4c8d403b05dc004a417.webp",
     "static/media/CryptoApp.webp": "/Portfolio/static/media/CryptoApp.1eb4ae1dd336e7913c26.webp",
+    "static/media/WineMe.webp": "/Portfolio/static/media/WineMe.148a7a673004a0d53356.webp",
     "static/media/react.webp": "/Portfolio/static/media/react.e5dd2d8c1c070089e1b7.webp",
     "static/media/javascriptLogo.webp": "/Portfolio/static/media/javascriptLogo.c2d753492a9d76d23d5b.webp",
     "static/media/tableauLogo.png": "/Portfolio/static/media/tableauLogo.d3b945bb6eba10ef1202.png",
+    "static/media/PostmanLogo.webp": "/Portfolio/static/media/PostmanLogo.f019c0a1f4d6578d3b34.webp",
     "static/media/bootstrapLogo.webp": "/Portfolio/static/media/bootstrapLogo.a7538f097715d47f8d07.webp",
+    "static/media/MongoDb.webp": "/Portfolio/static/media/MongoDb.b650822f341a5d9b018b.webp",
     "static/media/profilepicture.webp": "/Portfolio/static/media/profilepicture.8844c74d1860343d37ab.webp",
     "static/media/TailwindLogo.webp": "/Portfolio/static/media/TailwindLogo.c5eed1bab60b8cd567e7.webp",
     "static/media/powerBiLogo.webp": "/Portfolio/static/media/powerBiLogo.faa8ea269f08d41757db.webp",
     "index.html": "/Portfolio/index.html",
     "main.05f278c2.css.map": "/Portfolio/static/css/main.05f278c2.css.map",
-    "main.315c4f98.js.map": "/Portfolio/static/js/main.315c4f98.js.map"
+    "main.784f5ff7.js.map": "/Portfolio/static/js/main.784f5ff7.js.map"
   },
   "entrypoints": [
     "static/css/main.05f278c2.css",
-    "static/js/main.315c4f98.js"
+    "static/js/main.784f5ff7.js"
   ]
 }
