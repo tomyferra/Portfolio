@@ -4,10 +4,10 @@ export const WorkExperienceData = [
   {
     jobname: 'Software Engineer',
     companyname: 'JP Morgan Chase',
-    description: "Python backend Software Engineer. Scripts developer in Python for financial internal tools. Object Oriented Programming, Unit Testing, Code reviews, Agile Methodologies",
+    description: "Python backend Software Engineer. Scripts developer in Python for financial internal tools. Object Oriented Programming, Unit Testing, Code reviews, Agile Methodologies. Certified AWS Cloud Practitioner",
     datestarted: 'Dec 2021',
     dateended: 'Actuality',
-    technologies: 'HTML, CSS, Scrum, Agile, UnitTests, OOP, GIT, Python, SQL, React',
+    technologies: 'HTML, CSS, Scrum, Agile, UnitTests, OOP, GIT, Python, SQL, React, AWS',
     id: uuidv4()
   },
   {

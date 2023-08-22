@@ -12,6 +12,7 @@ import powerBiLogo from '../images/powerBiLogo.webp'
 import TailwindLogo from '../images/TailwindLogo.webp'
 import MongoDBLogo from '../images/MongoDb.webp'
 import PostmanLogo from '../images/PostmanLogo.webp'
+import AWSLogo from '../images/awsLogo.webp'
 
 function Skills () {
   return(
@@ -39,6 +40,7 @@ function Skills () {
         <img className='imgLogo col-6' src={pythonLogo} alt="Logo for Python" />
         <img className='imgLogo col-6' src={tableauLogo} alt="Logo for Tableu" />
         <img className='imgLogo col-6' src={powerBiLogo} alt="Logo for PowerBI" />
+        <img className='imgLogo col-6' src={AWSLogo} alt="Logo for AWS" />
       </div>
     </div>
   </div>
