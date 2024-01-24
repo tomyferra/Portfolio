@@ -16,10 +16,10 @@ export const ProjectsData = [
   id: uuidv4()
 },
 {
-  name: '[Site in construction] Estudio Vivanco',
-  summary: 'This is a consulting company specialized in ship damage control. With customers in Argentina and Europe.',
-  url: 'https://tomyferra.github.io/estudiovivanco/',
-  urlgithub: 'https://github.com/tomyferra/estudiovivanco',
+  name: '[Site in construction] Futbol Argentino',
+  summary: 'This is a simple game where you can try guessing which team has the biggest stadium.',
+  url: 'https://futbolargentino.onrender.com',
+  urlgithub: 'https://github.com/tomyferra/FutbolArgentino/',
   id: uuidv4()
 },
 
